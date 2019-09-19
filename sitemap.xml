@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://bimaikhsan.github.io/datamining/</loc>
-     <lastmod>2019-09-13</lastmod>
+     <loc>https://github.com/fifin-44/datamining/</loc>
+     <lastmod>2019-09-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bimaikhsan.github.io/datamining/statistik deskriptif/</loc>
-     <lastmod>2019-09-13</lastmod>
+     <loc>https://github.com/fifin-44/datamining/statistik/</loc>
+     <lastmod>2019-09-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bimaikhsan.github.io/datamining/Mengukur Jarak/</loc>
-     <lastmod>2019-09-13</lastmod>
+     <loc>https://github.com/fifin-44/datamining/MengukurJarak/</loc>
+     <lastmod>2019-09-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
